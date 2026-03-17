@@ -1,0 +1,51 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What size dumpster should I rent for a home cleanup?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A 10- to 20-yard dumpster typically covers most residential cleanouts, depending on volume and materials.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I get a quote for a dumpster rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Simply contact us with your project details, size, and debris type, and we’ll provide an upfront quote quickly.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What types of materials are allowed in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most household, construction, and commercial debris is permitted. Hazardous items like paint, chemicals, and tires may be restricted please confirm when booking.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How does delivery and pickup work?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You schedule delivery, clear the area, load your debris, then request pickup when done. Many companies allow you to be off-site during delivery and pickup.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are there weight or size restrictions for dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes each dumpster size has a weight limit. Heavy materials like concrete or dirt may require special bins or excess weight fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What if my project generates more debris than expected?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can upgrade to a larger dumpster or schedule an extra pickup. We’ll help you adjust if your scale changes.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
